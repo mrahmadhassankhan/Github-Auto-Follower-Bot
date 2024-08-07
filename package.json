@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "npm install",
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
