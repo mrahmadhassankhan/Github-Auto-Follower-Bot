@@ -1,0 +1,21 @@
+{
+  "name": "auto-follower-github",
+  "version": "1.0.0",
+  "description": "GitHub bot that automatically follows random users on GitHub",
+  "main": "bot.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot.git"
+  },
+  "author": "Ahmad Hassan Khan (@mrahmadhassankhan -> Github)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot/issues"
+  },
+  "homepage": "https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot#readme",
+  "dependencies": {
+    "@octokit/rest": "^21.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
