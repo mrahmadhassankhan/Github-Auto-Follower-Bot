@@ -34,11 +34,49 @@ node bot.js
 
 ## Usage
 
-The bot will fetch a list of random users from GitHub and follow them with a delay between each follow to avoid hitting rate limits. The delay is set to 1 minute by default.
+The bot will fetch a list of random users from GitHub and follow them with a delay between each follow to avoid hitting rate limits. The delay is set to 10 sec by default.
 
 ## Contributing
 
-If you want to contribute to this project, feel free to open an issue or submit a pull request.
+We welcome contributions to this project! To get started:
+
+1. **Fork the Repository**
+   - Click the "Fork" button at the top right of this repository to create your own copy.
+
+2. **Clone Your Fork**
+   - Clone your forked repository to your local machine:
+     ```sh
+     git clone https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot/
+     ```
+
+3. **Create a New Branch**
+   - Create a new branch for your feature or fix:
+     ```sh
+     git checkout -b your-branch-name
+     ```
+
+4. **Make Your Changes**
+   - Implement your changes or new features.
+
+5. **Test Your Changes**
+   - Ensure that your changes work as expected and do not break existing functionality.
+
+6. **Commit Your Changes**
+   - Commit your changes with a clear and concise message:
+     ```sh
+     git add .
+     git commit -m "Description of your changes"
+     ```
+
+7. **Push Your Changes**
+   - Push your changes to your forked repository:
+     ```sh
+     git push origin your-branch-name
+     ```
+
+8. **Open a Pull Request**
+   - Go to the original repository and open a pull request from your forked repository.
+
 
 ## Note
 
