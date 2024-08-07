@@ -49,7 +49,7 @@ If you want to contribute to this project, feel free to open an issue or submit 
 
 - [@octokit/rest](https://www.npmjs.com/package/@octokit/rest): GitHub REST API client for Node.js
 - [dotenv](https://www.npmjs.com/package/dotenv): Loads environment variables from a .env file
-- 
+
 ## License
 
 This project is licensed under the MIT License.
