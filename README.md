@@ -4,13 +4,17 @@ This project is a GitHub bot that automatically follows random users on GitHub. 
 
 ## Getting Started
 
-### 1. Install Dependencies
+### 1.Clone the repo
+```sh
+git clone https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot/
+```
+### 2. Install Dependencies
 
 ```sh
 npm install
 ```
 
-### 2. Configure Environment Variables
+### 3. Configure Environment Variables
 
 Create a `.env` file in the root of the project and add your GitHub token:
 
