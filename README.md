@@ -4,7 +4,7 @@ This project is a GitHub bot that automatically follows random users on GitHub. 
 
 ## Getting Started
 
-### 1.Clone the repo
+### 1. Clone the repo
 ```sh
 git clone https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot/
 ```
@@ -13,8 +13,12 @@ git clone https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot/
 ```sh
 npm install
 ```
+### 3. Generate a Github Token and make sure your GitHub token has the `user:follow` scope to allow the bot to follow users on your behalf.
+```sh
+Visit https://github.com/settings/tokens to generate 
 
-### 3. Configure Environment Variables
+```
+### 4. Configure Environment Variables
 
 Create a `.env` file in the root of the project and add your GitHub token:
 
