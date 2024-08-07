@@ -4,6 +4,10 @@
   "description": "GitHub bot that automatically follows random users on GitHub",
   "main": "bot.js",
   "type": "module",
+  "scripts": {
+    "build": "npm install",
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mrahmadhassankhan/Github-Auto-Follower-Bot.git"
