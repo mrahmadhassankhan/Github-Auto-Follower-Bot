@@ -39,8 +39,8 @@ async function followRandomUsers() {
         });
         console.log(`Followed ${user.login}`);
 
-        // Wait for 5 seconds before following the next user
-        await sleep(5000); // 5000 ms = 5sec
+        // Wait for 1 minute before following the next user
+        await sleep(10000); // 10000 ms = 10 sec
       } catch (error) {
         console.error(`Failed to follow ${user.login}: ${error.message}`);
       }
